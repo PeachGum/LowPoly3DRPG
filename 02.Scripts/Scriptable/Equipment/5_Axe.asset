@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a45b4857e52ec64448ca7f85eb20a872, type: 3}
+  m_Name: 5_Axe
+  m_EditorClassIdentifier: 
+  itemCode: 5
+  korName: "\uB3C4\uB07C"
+  engName: Axe
+  itemDesc: "\uB098\uBB34\uB97C \uBCA8 \uC218 \uC788\uB294 \uB3C4\uB07C\uC774\uB2E4\n\uB2E4\uB978
+    \uC6A9\uB3C4\uB85C\uB3C4 \uC0AC\uC6A9\uB41C\uB2E4"
+  itemType: 0
+  itemPrice: 200
+  itemImage: {fileID: 21300040, guid: 7ba93a1b64b1d3d46aad5a08a3c8ab5c, type: 3}
+  equipType: 1
+  isEquipping: 0
+  weaponType: 0
+  minAtk: 5
+  maxAtk: 8
